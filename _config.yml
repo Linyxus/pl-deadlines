@@ -1,15 +1,18 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: PL Conference Deadlines
+description: Countdowns to top PL venue deadlines
+author: Yichen Xu
 
-domain: "aideadlin.es"
+domain: "www.pl-deadlines.info"
 baseurl: ""
 
 twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+github_username: linyxus
+github_repo: pl-deadlines
 
 markdown: kramdown
 ga_id:
 
 include: ['_pages']
+
+repository: linyxus/pl-deadlines
+
