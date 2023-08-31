@@ -1,5 +1,18 @@
 ---
 
+- title: IWACO
+  year: 2023
+  id: iwaco2023
+  link: https://2023.splashcon.org/home/iwaco-2023
+  deadline: '2023-08-02 23:59:59'
+  timezone: UTC-12
+  place: Cascais, Portugal
+  date: 22-27, October, 2023
+  start: 2023-10-22
+  end: 2023-10-27
+  sub: PL
+  note:
+
 - title: OOPSLA
   year: 2024
   id: oopsla2024-r1
@@ -11,7 +24,7 @@
   start: TBA
   end: TBA
   sub: PL
-  note: This is the R1 submission.
+  note: Round 1
 
 - title: PLDI
   year: 2024
@@ -25,3 +38,17 @@
   end: TBA
   sub: PL
   note:
+
+- title: ECOOP/ISSTA
+  year: 2024
+  id: ecoop2024
+  link: https://conf.researchr.org/home/ecoop-issta-2024
+  deadline: '2023-12-15 23:59:59'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: 16-20, September, 2024
+  start: 2024-09-16
+  end: 2024-09-20
+  sub: PL
+  note: Round 1
+
