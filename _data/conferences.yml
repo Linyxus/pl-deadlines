@@ -63,3 +63,30 @@
   end: 2025-06-20
   sub: PL
   note:
+
+- title: OOPSLA
+  year: 2025
+  id: oopsla2025-r1
+  link: https://2025.splashcon.org/
+  deadline: '2024-10-15 23:59:59'
+  timezone: UTC-12
+  place: Singapore
+  date: 12-18, October, 2025
+  start: 2025-10-12
+  end: 2025-10-18
+  sub: PL
+  note: Round 1
+
+
+- title: OOPSLA
+  year: 2025
+  id: oopsla2025-r2
+  link: https://2025.splashcon.org/
+  deadline: '2025-03-25 23:59:59'
+  timezone: UTC-12
+  place: Singapore
+  date: 12-18, October, 2025
+  start: 2025-10-12
+  end: 2025-10-18
+  sub: PL
+  note: Round 2
