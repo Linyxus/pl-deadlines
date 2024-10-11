@@ -52,6 +52,18 @@
   sub: PL
   note: Round 1
 
+- title: PLDI
+  year: 2025
+  id: pldi2025
+  link: https://pldi25.sigplan.org/
+  deadline: '2024-10-31 23:59:59'
+  timezone: UTC+1
+  place: Seoul, South Korea
+  date: 16-20, June, 2025
+  start: 2025-06-16
+  end: 2025-06-20
+  sub: PL
+  note: the ACTUAL deadline
 
 - title: PLDI
   year: 2025
@@ -64,7 +76,7 @@
   start: 2025-06-16
   end: 2025-06-20
   sub: PL
-  note:
+  note: a fake deadline
 
 - title: OOPSLA
   year: 2025
