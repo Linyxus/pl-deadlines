@@ -54,7 +54,7 @@
 
 - title: PLDI
   year: 2025
-  id: pldi2025
+  id: pldi2025-internal
   link: https://pldi25.sigplan.org/
   deadline: '2024-10-31 23:59:59'
   timezone: UTC+1
@@ -67,7 +67,7 @@
 
 - title: PLDI
   year: 2025
-  id: pldi2025
+  id: pldi2025-official
   link: https://pldi25.sigplan.org/
   deadline: '2024-11-14 23:59:59'
   timezone: UTC-12
