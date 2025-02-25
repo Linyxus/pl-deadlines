@@ -104,3 +104,16 @@
   end: 2025-10-18
   sub: PL
   note: Round 2
+
+- title: POPL
+  year: 2026
+  id: popl2026
+  link: https://conf.researchr.org/home/POPL-2026
+  deadline: '2025-07-10 23:59:59'
+  timezone: UTC-12
+  place: Rennes, France
+  date: 11-17, Jaunary, 2026
+  start: 2026-01-11
+  end: 2026-01-17
+  sub: PL
+  note:
