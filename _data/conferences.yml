@@ -142,3 +142,16 @@
   end: 2026-01-17
   sub: PL
   note: paper
+
+- title: PLDI
+  year: 2026
+  id: pldi2026
+  link: https://pldi26.sigplan.org/track/pldi-2026-papers
+  deadline: '2025-11-13 23:59:59'
+  timezone: UTC-12
+  place: Boulder, Colorado, United States
+  date: 15-19, June, 2026
+  start: 2026-06-15
+  end: 2026-06-19
+  sub: PL
+  note:
