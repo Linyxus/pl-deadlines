@@ -91,7 +91,6 @@
   sub: PL
   note: Round 1
 
-
 - title: OOPSLA
   year: 2025
   id: oopsla2025-r2
@@ -117,3 +116,29 @@
   end: 2026-01-17
   sub: PL
   note:
+
+- title: CPP
+  year: 2026
+  id: cpp2026-abstract
+  link: https://popl26.sigplan.org/home/CPP-2026
+  deadline: '2025-09-05 23:59:59'
+  timezone: UTC-12
+  place: Rennes, France
+  date: 11-17, January, 2026
+  start: 2026-01-11
+  end: 2026-01-17
+  sub: PL
+  note: abstract
+
+- title: CPP
+  year: 2026
+  id: cpp2026-main
+  link: https://popl26.sigplan.org/home/CPP-2026
+  deadline: '2025-09-12 23:59:59'
+  timezone: UTC-12
+  place: Rennes, France
+  date: 11-17, January, 2026
+  start: 2026-01-11
+  end: 2026-01-17
+  sub: PL
+  note: paper
