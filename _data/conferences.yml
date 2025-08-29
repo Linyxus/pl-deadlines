@@ -155,3 +155,29 @@
   end: 2026-06-19
   sub: PL
   note:
+
+- title: OOPSLA
+  year: 2026
+  id: oopsla2026-r1
+  link: https://conf.researchr.org/track/splash-2026/oopsla-2026
+  deadline: '2025-10-10 23:59:59'
+  timezone: UTC-12
+  place: Oakland, California, United States
+  date: 3-9, October, 2026
+  start: 2026-10-03
+  end: 2026-10-09
+  sub: PL
+  note: Round 1
+
+- title: OOPSLA
+  year: 2026
+  id: oopsla2026-r2
+  link: https://conf.researchr.org/track/splash-2026/oopsla-2026
+  deadline: '2026-03-17 23:59:59'
+  timezone: UTC-12
+  place: Oakland, California, United States
+  date: 3-9, October, 2026
+  start: 2026-10-03
+  end: 2026-10-09
+  sub: PL
+  note: Round 2
