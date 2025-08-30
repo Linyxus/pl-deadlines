@@ -181,3 +181,29 @@
   end: 2026-10-09
   sub: PL
   note: Round 2
+
+- title: ECOOP
+  year: 2026
+  id: ecoop2026-r1
+  link: https://2026.ecoop.org/
+  deadline: '2025-11-27 23:59:59'
+  timezone: UTC-12
+  place: Brussels, Belgium
+  date: 29 June - 3 July, 2026
+  start: 2026-06-29
+  end: 2026-07-03
+  sub: PL
+  note: Technical Papers Round 1 Submissions
+
+- title: ECOOP
+  year: 2026
+  id: ecoop2026-r2
+  link: https://2026.ecoop.org/
+  deadline: '2026-02-12 23:59:59'
+  timezone: UTC-12
+  place: Brussels, Belgium
+  date: 29 June - 3 July, 2026
+  start: 2026-06-29
+  end: 2026-07-03
+  sub: PL
+  note: Technical Papers Round 2 Submissions
