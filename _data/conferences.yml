@@ -207,3 +207,16 @@
   end: 2026-07-03
   sub: PL
   note: Technical Papers Round 2 Submissions
+
+- title: CAV
+  year: 2026
+  id: cav2026
+  link: https://conferences.i-cav.org/2026/
+  deadline: '2026-01-28 23:59:59'
+  timezone: UTC-12
+  place: Lisbon, Portugal
+  date: 26 July - 29 July, 2026
+  start: 2026-07-26
+  end: 2026-07-29
+  sub: FM
+  note:

@@ -2,8 +2,8 @@
 - name: Programming Language
   sub: PL
   color: "#ffd300"
-- name: Formal Verification
-  sub: FV
+- name: Formal Methods
+  sub: FM
   color: "#deff0a"
 # - name: Machine Learning
 #   sub: ML
