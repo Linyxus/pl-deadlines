@@ -263,7 +263,7 @@
 - title: ICFP
   year: 2026
   id: icfp2026
-  link: https://conf.researchr.org/home/fm-2026
+  link: https://conf.researchr.org/home/icfp-2026
   deadline: '2026-02-19 23:59:59'
   timezone: UTC-12
   place: United States
@@ -272,3 +272,4 @@
   end: 2026-08-29
   sub: PL
   note:
+
