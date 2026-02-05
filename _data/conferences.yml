@@ -273,3 +273,28 @@
   sub: PL
   note:
 
+- title: CAIS
+  year: 2026
+  id: cais2026-abstract
+  link: https://www.caisconf.org/
+  deadline: '2026-02-20 23:59:59'
+  timezone: UTC-12
+  place: San Jos, California, United States
+  date: 26 May - 29 May, 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  sub: AI
+  note: abstract submission
+
+- title: CAIS
+  year: 2026
+  id: cais2026
+  link: https://www.caisconf.org/
+  deadline: '2026-02-27 23:59:59'
+  timezone: UTC-12
+  place: San Jos, California, United States
+  date: 26 May - 29 May, 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  sub: AI
+  note: main paper submission
