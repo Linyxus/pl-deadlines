@@ -298,3 +298,29 @@
   end: 2026-05-29
   sub: AI
   note: main paper submission
+
+- title: TASE
+  year: 2026
+  id: tase2026-abstract
+  link: https://tase2026.github.io
+  deadline: '2026-03-01 23:59:59'
+  timezone: UTC-12
+  place: Shanghai, China
+  date: 4 July - 6 July, 2026
+  start: 2026-07-04
+  end: 2026-07-06
+  sub: FM
+  note: abstract submission
+
+- title: TASE
+  year: 2026
+  id: tase2026
+  link: https://tase2026.github.io
+  deadline: '2026-03-07 23:59:59'
+  timezone: UTC-12
+  place: Shanghai, China
+  date: 4 July - 6 July, 2026
+  start: 2026-07-04
+  end: 2026-07-06
+  sub: FM
+  note: paper submission
