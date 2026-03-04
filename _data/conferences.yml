@@ -111,7 +111,7 @@
   deadline: '2025-07-10 23:59:59'
   timezone: UTC-12
   place: Rennes, France
-  date: 11-17, Jaunary, 2026
+  date: 11-17, January, 2026
   start: 2026-01-11
   end: 2026-01-17
   sub: PL
@@ -332,7 +332,7 @@
   deadline: '2026-07-09 23:59:59'
   timezone: UTC-12
   place: Mexico
-  date: 10-16, Jaunary, 2027
+  date: 10-16, January, 2027
   start: 2027-01-10
   end: 2027-01-16
   sub: PL
