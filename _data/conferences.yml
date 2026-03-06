@@ -325,6 +325,19 @@
   sub: FM
   note: paper submission
 
+- title: Scala Workshop
+  year: 2026
+  id: scala2026
+  link: https://2026.workshop.scala-lang.org
+  deadline: '2026-03-23 23:59:59'
+  timezone: UTC-12
+  place: Brussels, Belgium
+  date: 29 June, 2026
+  start: 2026-06-29
+  end: 2026-06-29
+  sub: PL
+  note:
+
 - title: POPL
   year: 2027
   id: popl2027
@@ -337,3 +350,4 @@
   end: 2027-01-16
   sub: PL
   note:
+
