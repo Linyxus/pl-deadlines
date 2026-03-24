@@ -338,6 +338,34 @@
   sub: PL
   note:
 
+- title: NeurIPS E&D
+  year: 2026
+  id: neurips2026-ed-abstract
+  full_name: NeurIPS Evaluations and Datasets Track
+  link: https://neurips.cc/Conferences/2026/CallForEvaluationsDatasets
+  deadline: '2026-05-04 23:59:59'
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: 6 Dec - 12 Dec, 2026
+  start: 2026-12-06
+  end: 2026-12-12
+  sub: AI
+  note: abstract submission
+
+- title: NeurIPS E&D
+  year: 2026
+  id: neurips2026-ed
+  full_name: NeurIPS Evaluations and Datasets Track
+  link: https://neurips.cc/Conferences/2026/CallForEvaluationsDatasets
+  deadline: '2026-05-06 23:59:59'
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: 6 Dec - 12 Dec, 2026
+  start: 2026-12-06
+  end: 2026-12-12
+  sub: AI
+  note: full paper submission
+
 - title: POPL
   year: 2027
   id: popl2027
@@ -350,4 +378,3 @@
   end: 2027-01-16
   sub: PL
   note:
-
