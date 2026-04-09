@@ -299,6 +299,19 @@
   sub: AI
   note: main paper submission
 
+- title: CAIS
+  year: 2026
+  id: cais2026-rebuttal
+  link: https://www.caisconf.org/
+  deadline: '2026-04-17 23:59:59'
+  timezone: UTC-12
+  place: San Jose, California, United States
+  date: 26 May - 29 May, 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  sub: AI
+  note: rebuttal
+
 - title: TASE
   year: 2026
   id: tase2026-abstract
