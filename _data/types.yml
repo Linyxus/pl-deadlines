@@ -8,6 +8,9 @@
 - name: Artificial Intelligence
   sub: AI
   color: "#ffd300"
+- name: Security
+  sub: SEC
+  color: "#ff5733"
 # - name: Machine Learning
 #   sub: ML
 # - name: Computer Vision

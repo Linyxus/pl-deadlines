@@ -419,3 +419,43 @@
   end: 2027-01-16
   sub: PL
   note:
+
+- title: USENIX Security
+  year: 2027
+  id: usenixsecurity2027-r1
+  link: https://www.usenix.org/conference/usenixsecurity27
+  deadline: '2026-08-25 23:59:59'
+  timezone: UTC-12
+  place: Denver, CO, USA
+  date: 11-13, August, 2027
+  start: 2027-08-11
+  end: 2027-08-13
+  sub: SEC
+  note: Cycle 1 (abstract reg 2026-08-18)
+
+- title: USENIX Security
+  year: 2027
+  id: usenixsecurity2027-r2
+  link: https://www.usenix.org/conference/usenixsecurity27
+  deadline: '2027-01-26 23:59:59'
+  timezone: UTC-12
+  place: Denver, CO, USA
+  date: 11-13, August, 2027
+  start: 2027-08-11
+  end: 2027-08-13
+  sub: SEC
+  note: Cycle 2 (abstract reg 2027-01-19)
+
+- title: IEEE DSC
+  year: 2026
+  id: dsc2026
+  full_name: IEEE Conference on Dependable and Secure Computing
+  link: https://attend.ieee.org/dsc-2025/dsc-2026/
+  deadline: '2026-06-12 23:59:59'
+  timezone: UTC-12
+  place: NYC, USA
+  date: 9-11, October, 2026
+  start: 2026-10-09
+  end: 2026-10-11
+  sub: SEC
+  note: abstract due 2026-06-05
