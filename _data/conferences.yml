@@ -473,3 +473,31 @@
   end: 2026-10-29
   sub: AI
   note: ARR May 2026 cycle; commitment deadline 2026-08-02
+
+- title: ICLR
+  year: 2027
+  id: iclr2027-abstract
+  full_name: International Conference on Learning Representations
+  link: https://iclr.cc/Conferences/2027
+  deadline: '2026-09-18 23:59:59'
+  timezone: UTC-12
+  place: California, USA
+  date: 26-30, April, 2027
+  start: 2027-04-26
+  end: 2027-04-30
+  sub: AI
+  note: abstract submission
+
+- title: ICLR
+  year: 2027
+  id: iclr2027
+  full_name: International Conference on Learning Representations
+  link: https://iclr.cc/Conferences/2027
+  deadline: '2026-09-25 23:59:59'
+  timezone: UTC-12
+  place: California, USA
+  date: 26-30, April, 2027
+  start: 2027-04-26
+  end: 2027-04-30
+  sub: AI
+  note: full paper submission
