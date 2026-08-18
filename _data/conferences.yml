@@ -501,3 +501,17 @@
   end: 2027-04-30
   sub: AI
   note: full paper submission
+
+- title: PLDI
+  year: 2027
+  id: pldi2027
+  full_name: ACM SIGPLAN Conference on Programming Language Design and Implementation
+  link: https://pldi27.sigplan.org/
+  deadline: '2026-11-12 23:59:59'
+  timezone: UTC-12
+  place: Atlanta, Georgia, United States
+  date: 5-11, June, 2027
+  start: 2027-06-05
+  end: 2027-06-11
+  sub: PL
+  note: part of FCRC 2027
