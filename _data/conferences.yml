@@ -515,3 +515,29 @@
   end: 2027-06-11
   sub: PL
   note: part of FCRC 2027
+
+- title: OOPSLA
+  year: 2027
+  id: oopsla2027-r1
+  link: https://conf.researchr.org/track/splash-2027/splashoopsla2027
+  deadline: '2026-10-14 23:59:59'
+  timezone: UTC-12
+  place: Prague, Czechia
+  date: 10-15, October, 2027
+  start: 2027-10-10
+  end: 2027-10-15
+  sub: PL
+  note: Round 1
+
+- title: OOPSLA
+  year: 2027
+  id: oopsla2027-r2
+  link: https://conf.researchr.org/track/splash-2027/splashoopsla2027
+  deadline: '2027-04-07 23:59:59'
+  timezone: UTC-12
+  place: Prague, Czechia
+  date: 10-15, October, 2027
+  start: 2027-10-10
+  end: 2027-10-15
+  sub: PL
+  note: Round 2
