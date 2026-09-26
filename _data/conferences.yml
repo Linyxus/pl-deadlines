@@ -541,3 +541,16 @@
   end: 2027-10-15
   sub: PL
   note: Round 2
+
+- title: CAV
+  year: 2027
+  id: cav2027
+  link: https://conferences.i-cav.org/2027/
+  deadline: '2027-01-20 23:59:59'
+  timezone: UTC-12
+  place: Amsterdam, The Netherlands
+  date: 19-23, July, 2027
+  start: 2027-07-19
+  end: 2027-07-23
+  sub: FM
+  note:
