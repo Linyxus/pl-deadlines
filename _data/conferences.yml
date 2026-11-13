@@ -554,3 +554,31 @@
   end: 2027-07-23
   sub: FM
   note:
+
+- title: ICML
+  year: 2027
+  id: icml2027-abstract
+  full_name: International Conference on Machine Learning
+  link: https://icml.cc/Conferences/2027
+  deadline: '2027-01-14 23:59:59'
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: 31 July - 6 August, 2027
+  start: 2027-07-31
+  end: 2027-08-06
+  sub: AI
+  note: abstract submission
+
+- title: ICML
+  year: 2027
+  id: icml2027
+  full_name: International Conference on Machine Learning
+  link: https://icml.cc/Conferences/2027
+  deadline: '2027-01-22 23:59:59'
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: 31 July - 6 August, 2027
+  start: 2027-07-31
+  end: 2027-08-06
+  sub: AI
+  note: full paper submission
