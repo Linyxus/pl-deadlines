@@ -1,0 +1,8 @@
+<script>
+  window.PLD = {
+    baseurl: {{ site.baseurl | jsonify }},
+    domain: {{ site.domain | jsonify }},
+    types: {{ site.data.types | jsonify }},
+    confs: {{ site.data.conferences | jsonify }}
+  };
+</script>

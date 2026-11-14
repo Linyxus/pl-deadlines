@@ -1,5 +1,5 @@
 title: PL Conference Deadlines
-description: Countdowns to top PL venue deadlines
+description: Countdowns to PL conference deadlines
 author: Yichen Xu
 
 domain: "www.pl-deadlines.info"
@@ -16,3 +16,9 @@ include: ['_pages']
 
 repository: linyxus/pl-deadlines
 
+exclude:
+  - redesign
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
