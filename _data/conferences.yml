@@ -582,3 +582,17 @@
   end: 2027-08-06
   sub: AI
   note: full paper submission
+
+- title: ICFP
+  year: 2027
+  id: icfp2027
+  full_name: ACM SIGPLAN International Conference on Functional Programming
+  link: https://icfp27.sigplan.org/
+  deadline: '2027-02-25 23:59:59'
+  timezone: UTC-12
+  place: Nijmegen, Netherlands
+  date: 26 September - 1 October, 2027
+  start: 2027-09-26
+  end: 2027-10-01
+  sub: PL
+  note:
